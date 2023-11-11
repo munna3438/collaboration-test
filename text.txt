@@ -6,8 +6,4 @@ test3 (munna)
 test4 (munna)
 test6 (munna)
 test5 (munna)
-<<<<<<< HEAD
 test9 (monzurul)
-=======
-test6 (munna)
->>>>>>> 71a016ad34230eb3a989b8353efb4d82e4b89d3c
